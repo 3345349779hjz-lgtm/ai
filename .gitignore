@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.env
+
+# 配置文件（包含敏感信息）
+config.py
+
+# 上传文件
+static/uploads/
+*.jpg
+*.png
+*.bmp
+
+# IDE
+.vscode/
+.idea/
+
+# 视频文件（可选，太大可不提交）
+*.mp4
+*.mov
+
+# 系统文件
+.DS_Store
+Thumbs.db
